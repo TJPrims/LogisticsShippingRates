@@ -1,2 +1,2 @@
-# Shipping-calculator
+# LogisticsShippingRates
 Practice Project for "Shipping Calculator"
